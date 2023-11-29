@@ -14,9 +14,9 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Plugin for saving code fragments to a special template for easy copying. \n
-    Buttons for inserting code are created from the "presets" folder. \n
-    It will be automatically created when saving a piece of code. \n
+    Plugin for saving code fragments to a special template for easy copying. <br>
+    Buttons for inserting code are created from the "presets" folder. <br>
+    It will be automatically created when saving a piece of code. <br>
     Buttons are added when the idea is launched, restart for new buttons to appear.
   ]]></description>
 
